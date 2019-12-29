@@ -19,7 +19,7 @@ Sign in to your Github account you created in the PFM Chapter 1 videos.
 You're going to **import this repository** into your github account.
 Click the green `Clone or Download` button and copy the HTTPS url.
 
-1) Click the `[+]` button and choosing "Import Repository"
+1) Click the `[+]` button and choose "Import Repository"
 
 2) Paste the `Clone or Download` URL in the appropriate field.
 
