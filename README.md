@@ -1,5 +1,6 @@
 
 
+
 # PFM::C++ For Musicians Repl.it project template
 
   
@@ -64,7 +65,9 @@ HEAD is now at 1badb5c Initial Commit
 
 1) Once I accept your invite to collaborate on **GitHub** and **Repl.it**, I will edit `main.cpp` and add the assignment.
 
-2) Once I commit and push the assignment, I'll be waiting on you to do the work
+2) Once I commit and push the assignment, I'll be waiting on you to do the work.
+
+3) Refresh the **Repl.it** page, switch to the version control branch, and click "pull" when it prompts you to update.
 
   
 
@@ -97,7 +100,7 @@ If **Repl.it** prompts you that it is **Unable to connect to this GitHub reposit
 
 # Wait for me to merge the PR
 1) Once I **merge** the **PR**, I will either 
--- clear out the instructions and replace them with new instructions on the `master` branch, or 
--- Ask you to create a new project from this template, following the same steps as before.
+  -- clear out the instructions and replace them with new instructions on the `master` branch, or
+  -- Ask you to create a new project from this template, following the same steps as before.
 
 2) if I replace the instructions, You will then make a new branch for these new instructions, and repeat the process.
