@@ -23,7 +23,8 @@ Click the green `Clone or Download` button and copy the HTTPS url.
 
 2) Paste the `Clone or Download` URL in the appropriate field.
 
-3) In the name field, enter the name of whichever video you're on.  For example, if you were watching ch2_p03, you would put `pfmcpp_ch2_p03` in the Name field.
+3) In the name field, enter the abbreviated name of whichever video you're on.  
+   For example, if you were watching **Chapter 2 Part 3 - Declarations**, you would put `pfmcpp_ch2_p03` in the Name field.
 
 4) Make sure you set the repository's privacy as `public`
 
