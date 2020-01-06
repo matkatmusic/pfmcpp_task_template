@@ -1,24 +1,13 @@
-
-
-
 # PFM::C++ For Musicians Repl.it project template
-
-  
-
 # DO NOT EDIT the .replit file or this README.md file.
-
-  
-
 # Welcome to PFM::C++ For Musicians
-
-  
-
 ## Clone this project template to your Github account
-
 Sign in to your Github account you created in the PFM Chapter 1 videos.
 
+
 You're going to **import this repository** into your github account.
-Click the green `Clone or Download` button and copy the HTTPS url.
+- Click the green `Clone or Download` button and copy the HTTPS url.
+
 
 1) Click the `[+]` button and choose "Import Repository"
 
@@ -83,24 +72,32 @@ If **Repl.it** prompts you that it is **Unable to connect to this GitHub reposit
 4) Send me a message in Slack that you committed your completed assignment.
 
 5) I will review the assignment.
- -- If it's completed to my satisfaction, I will ask you to go to Github and create a `Pull Request`.	
- -- If it's not completed to my satisfaction, I will add some `FIXME`'s to the code which will break compilation.  You'll need to read the error messages, fix the code, and commit your changes, which I will then review.
+    - If it's completed to my satisfaction, I will ask you to go to Github and create a `Pull Request`.	
+    - If it's not completed to my satisfaction, I will add some `FIXME`'s to the code which will break compilation.  You'll need to read the error messages, fix the code, and commit your changes, which I will then review.
 
 # Create a Pull Request (PR)
 1) Click on `Pull Requests` in your repo.
 2) Click the `[Compare & Pull request]` button for your recently pushed branch.  
--- Make sure it says `Able to merge` on the page that appears.
--- You can enter a message if you want.   
+    - Make sure it says `Able to merge` on the page that appears.
+    - You can enter a message if you want.   
 3) On the right side, 
-  -- under Reviewers, request 'matkatmusic'.  By doing this, you are requesting that I review your code.
-  -- under Assignees, assign 'matkatmusic'.  By doing this, you are assigning me the task of reviewing your code.
+    - under Reviewers, request 'matkatmusic'.  By doing this, you are requesting that I review your code.
+    - under Assignees, assign 'matkatmusic'.  By doing this, you are assigning me the task of reviewing your code.
 
 4) Click 'Create pull request'.  After the pull request is created, Do not click 'Merge pull request'.  
 5) Wait for me to merge it, since you assigned it to me.
 
 # Wait for me to merge the PR
 1) Once I **merge** the **PR**, I will either 
-  -- clear out the instructions and replace them with new instructions on the `master` branch, or
-  -- Ask you to create a new project from this template, following the same steps as before.
+    - clear out the instructions and replace them with new instructions on the `master` branch, or
+    - Ask you to create a new project from this template, following the same steps as before.
 
 2) if I replace the instructions, You will then make a new branch for these new instructions, and repeat the process.
+3) if I ask you to create a new project, I also want you to share your completed task to the appropriate channel.  To do this: 
+- a) visit your Repo on github
+- b) click on `Commits`
+- c) in the list of commits, look for the one I merged
+- d) Look for the `[<>]` on the right.  If you hover over it with your cursor, it will say `Browse the repository at this point in the history`
+- e) Click on it.  the url will change to something like `pfmcpp_ch2_p03/tree/654abd564d65b4c5645e654f654g`.  
+- f) Share this URL in the channel for the task, as your completed task for other students to look at. 
+- > "Here's my completed task: https://github.com/.../tree/123456789abcdef"
