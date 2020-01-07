@@ -67,12 +67,30 @@ HEAD is now at 1badb5c Initial Commit
 
 2) complete the assignment instructions.  Do not delete the instructions.
 
-3) Once you complete the instructions, or if you get stuck, commit your changes on the branch.
+3) This course loosely follows the JUCE Coding Standards: https://juce.com/discover/stories/coding-standards
+The easiest way to show the coding style is with a short snippet:
+```
+//no spaces around '(', spaces around '=', variable names are relevant 
+bool rentACar(int rentalDuration, int carType = 0)    
+{   //curly braces go on their own line                                                  
+    ignoreUnused(rentalDuration, carType);   //indentation is set to 4 SPACES.  set this in Repl.it settings
+    return true;
+}
+                           //a blank line between functions or types.
+struct RelatedType //Types begin with a capital letter and use CamelCase
+{
+   double val, optimalVal; //member variables use camelCase, and begin with a lowercase letter.
+                           //a blank line between member variables and member functions
+   void setTypeToRelateTo(const OtherType& typeToRelateTo);  //member functions follow the same style guide as regular functions
+};
+```
+
+4) Once you complete the instructions, or if you get stuck, commit your changes on the branch.
 If **Repl.it** prompts you that it is **Unable to connect to this GitHub repository**, click the 'Connect' button.  Make a small change (like adding a space somewhere) and try commiting again.  You can click on the commit message itself to be shown the commit in your Github repo.
 
-4) Send me a message in Slack that you committed your completed assignment.
+5) Send me a Direct Message in Slack that you committed your completed assignment, including the link to your Repl.it  
 
-5) I will review the assignment.
+6) I will review the assignment.
     - If it's completed to my satisfaction, I will ask you to go to Github and create a `Pull Request`.	
     - If it's not completed to my satisfaction, I will add some `FIXME`'s to the code which will break compilation.  You'll need to read the error messages, fix the code, and commit your changes, which I will then review.
 
